@@ -54,33 +54,38 @@ Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 - How many suffer frequent headache (≥ 4)?
 - What is the mean blood_pressure rating?
 - How many rate their sleep_quality as 1 or 2?
-- 
-4) Environmental Factors
 
-How many live with noise_level ≥ 4?
-What percentage feel unsafe (safety ≤ 2)?
-How many have basic_needs ≤ 2?
-5) Academic Factors
+**4) Environmental Factors**
 
-How many rate academic_performance below 3?
-Average study_load.
-How many express future_career_concerns ≥ 4?
-6) Social Factors
+- How many live with noise_level ≥ 4?
+- What percentage feel unsafe (safety ≤ 2)?
+- How many have basic_needs ≤ 2?
 
-How many report social_support ≥ 4?
-Percentage experiencing bullying ≥ 3.
-How many join ≥ 1 extracurricular_activities?
-7) Comparative Analysis
+**5) Academic Factors**
 
-Is there a correlation between anxiety_level and academic_performance?
-Do students with poor sleep_quality (≤ 2) also show higher depression?
-Are students who experience bullying more likely to have a mental‑health history?
-8) General Exploration
+- How many rate academic_performance below 3?
+- Average study_load.
+- How many express future_career_concerns ≥ 4?
 
-Which factor (Psychological, Physiological, Environmental, Academic, Social) gathers the most negative experiences?
-Any visible trends when comparing factors?
-Within each factor, which variable most strongly impacts stress_level?
-🚀 Suggested Next Steps
+**6) Social Factors**
+
+- How many report social_support ≥ 4?
+- Percentage experiencing bullying ≥ 3.
+- How many join ≥ 1 extracurricular_activities?
+
+**7) Comparative Analysis**
+
+- Is there a correlation between anxiety_level and academic_performance?
+- Do students with poor sleep_quality (≤ 2) also show higher depression?
+- Are students who experience bullying more likely to have a mental‑health history?
+
+**8) General Exploration**
+
+- Which factor (Psychological, Physiological, Environmental, Academic, Social) gathers the most negative experiences?
+- Any visible trends when comparing factors?
+- Within each factor, which variable most strongly impacts stress_level?
+
+## 🚀 Suggested Next Steps
 **Load the CSV in a notebook and run df.info(),describe,etc to inspect dtypes and missing values.
 Explore and Clean.
 Visualise: histograms, boxplots, correlation heat‑maps.
