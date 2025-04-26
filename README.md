@@ -8,12 +8,19 @@ Put on your data‑scientist lab coat and find out!
 
 ## 🗂️ Quick Guide to Variables
 
-Factor             |Variable                  |What it represents                  |Scale overview*
+|       Factor        |         Variable         |        What it represents          |   Scale overview*   |
+|---------------------|--------------------------|------------------------------------|---------------------|
 
-Psychological	     |anxiety_level	            |Perceived anxiety intensity	       |1–20
+|Psychological	      |anxiety_level	           |Perceived anxiety intensity	        |1–20                 |
 
-self_esteem	Student self‑esteem	1–30
-depression	Depressive symptoms	1–20
+|              	      |self_esteem  	           |Student self‑esteem        	        |1–30                 |
+
+|              	      |depression  	             |Depressive symptoms        	        |1–20                 |
+
+
+
+		
+		
 mental_health_history	Previous mental‑health diagnosis	0 = No / 1 = Yes
 Physiological	headache	Headache frequency	0–5
 blood_pressure	1 = Low, 2 = Normal, 3 = High	
@@ -35,7 +42,7 @@ Outcome	stress_level or str_level	Overall stress (duplicate)	1 = Low … 3 = Hig
 🔎 What Can You Investigate?
 Below you will find graded challenges to guide you step by step.
 
-🐣 Task for the beginners
+## 🐣 Task for the beginners
 Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 
 1) Descriptive Statistics
