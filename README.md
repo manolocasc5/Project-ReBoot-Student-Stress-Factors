@@ -90,3 +90,6 @@ Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 Explore and Clean.
 Visualise: histograms, boxplots, correlation heat‑maps.
 Tell your story: conclude with practical insights (and share them!).
+
+## 📊 Kaggle Project: ReBoot-Student-Stress-Factors
+https://www.kaggle.com/code/manolocastillo/laura-suarez-manolo-castillo-student-stress-fact
