@@ -8,41 +8,37 @@ Put on your data‑scientist lab coat and find out!
 
 ## 🗂️ Quick Guide to Variables
 
-|       Factor        |         Variable     	|        What it represents    		|   Scale overview*	|
-|---------------------|-------------------------|---------------------------------------|-----------------------|
-|Psychological	      |anxiety_level	    	|Perceived anxiety intensity		|1–20            	|
-|              	      |self_esteem  	 	|Student self‑esteem        	        |1–30            	|
-|              	      |depression  		|Depressive symptoms        	     	|1–20                 	|
+|       Factor        |         Variable     		|        What it represents    		|         Scale overview*	|
+|---------------------|---------------------------------|---------------------------------------|-------------------------------|
+|Psychological	      |anxiety_level	    		|Perceived anxiety intensity		|1–20            		|
+|              	      |self_esteem  	 		|Student self‑esteem        	        |1–30            		|
+|              	      |depression  			|Depressive symptoms        	     	|1–20                 		|
+|              	      |mental_health_history		|Previous mental‑health diagnosis     	|0 = No / 1 = Yes      		|
+|Physiological 	      |headache  			|Headache frequency        	     	|0–5                 		|
+|              	      |blood_pressure  	 		|1 = Low, 2 = Normal, 3 = High 	        |	            		|
+|              	      |sleep_quality  	 		|Perceived sleep quality       	        |1 = Very poor … 5 = Excellent 	|
+|              	      |breathing_problem 		|Breathing issues        	        |0–5            		|
+|Environmental 	      |noise_level	 		|Household noise        	        |1–5            		|
+|	 	      |living_conditions 		|Overall home comfort        	        |1–5            		|
+|	 	      |safety		 		|Feeling of safety        	        |1–5            		|
+|	 	      |basic_needs	 		|Access to water, food, etc.   	        |1 = Never … 5 = Always		|
+|Academic 	      |academic_performance 		|Self‑rated performance        	        |1 = Very low … 5 = Excellent	|
+|	 	      |study_load	 		|Study hours per week        	        |Integer            		|
+|	 	      |teacher_student_relationship	|Relationship quality        	        |1–5            		|
+|	 	      |future_career_concerns		|Worries about future career   	        |1–5            		|
+|Social 	      |social_support	 		|Sense of social support       	        |1–5				|
+|	 	      |peer_pressure			|Peer pressure		   	        |1–5            		|
+|	 	      |extracurricular_activities	|Participation in activities   	        |0–5            		|
+|	 	      |bullying				|Bullying experiences   	        |0–5            		|
+|Outcome	      |stress_level or str_level	|Overall stress (duplicate)   	        |1 = Low … 3 = High    		|
 
-
-
-		
-		
-mental_health_history	Previous mental‑health diagnosis	0 = No / 1 = Yes
-Physiological	headache	Headache frequency	0–5
-blood_pressure	1 = Low, 2 = Normal, 3 = High	
-sleep_quality	Perceived sleep quality	1 = Very poor … 5 = Excellent
-breathing_problem	Breathing issues	0–5
-Environmental	noise_level	Household noise	1–5
-living_conditions	Overall home comfort	1–5
-safety	Feeling of safety	1–5
-basic_needs	Access to water, food, etc.	1 = Never … 5 = Always
-Academic	academic_performance	Self‑rated performance	1 = Very low … 5 = Excellent
-study_load	Study hours per week	Integer
-teacher_student_relationship	Relationship quality	1–5
-future_career_concerns	Worries about future career	1–5
-Social	social_support	Sense of social support	1–5
-peer_pressure	Peer pressure	1–5
-extracurricular_activities	Participation in activities	0–5
-bullying	Bullying experiences	0–5
-Outcome	stress_level or str_level	Overall stress (duplicate)	1 = Low … 3 = High
-🔎 What Can You Investigate?
+## 🔎 What Can You Investigate?
 Below you will find graded challenges to guide you step by step.
 
 ## 🐣 Task for the beginners
 Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 
-1) Descriptive Statistics
+**1) Descriptive Statistics**
 
 How many students are in the dataset?
 What is the average anxiety_level?
