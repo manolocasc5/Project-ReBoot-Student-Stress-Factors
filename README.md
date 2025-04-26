@@ -43,7 +43,8 @@ Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 How many students are in the dataset?
 What is the average anxiety_level?
 How many students report mental_health_history = 1?
-2) Psychological Factors
+
+**2) Psychological Factors**
 
 How many students have self_esteem below the average?
 What percentage experience depression beyond a clinical threshold?
