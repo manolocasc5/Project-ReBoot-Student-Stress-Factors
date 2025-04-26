@@ -8,14 +8,11 @@ Put on your data‑scientist lab coat and find out!
 
 ## 🗂️ Quick Guide to Variables
 
-|       Factor        |         Variable         |        What it represents          |   Scale overview*   |
-|---------------------|--------------------------|------------------------------------|---------------------|
-
-|Psychological	      |anxiety_level	           |Perceived anxiety intensity	        |1–20                 |
-
-|              	      |self_esteem  	           |Student self‑esteem        	        |1–30                 |
-
-|              	      |depression  	             |Depressive symptoms        	        |1–20                 |
+|       Factor        |         Variable     	|        What it represents    		|   Scale overview*	|
+|---------------------|-------------------------|---------------------------------------|-----------------------|
+|Psychological	      |anxiety_level	    	|Perceived anxiety intensity		|1–20            	|
+|              	      |self_esteem  	 	|Student self‑esteem        	        |1–30            	|
+|              	      |depression  		|Depressive symptoms        	     	|1–20                 	|
 
 
 
