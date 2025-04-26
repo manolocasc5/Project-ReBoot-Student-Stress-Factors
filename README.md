@@ -40,19 +40,21 @@ Time to rise and shine. Best of luck! Add your notebook link if you solve them.
 
 **1) Descriptive Statistics**
 
-How many students are in the dataset?
-What is the average anxiety_level?
-How many students report mental_health_history = 1?
+- How many students are in the dataset?
+- What is the average anxiety_level?
+- How many students report mental_health_history = 1?
 
 **2) Psychological Factors**
 
-How many students have self_esteem below the average?
-What percentage experience depression beyond a clinical threshold?
-3) Physiological Factors
+- How many students have self_esteem below the average?
+- What percentage experience depression beyond a clinical threshold?
 
-How many suffer frequent headache (≥ 4)?
-What is the mean blood_pressure rating?
-How many rate their sleep_quality as 1 or 2?
+**3) Physiological Factors**
+
+- How many suffer frequent headache (≥ 4)?
+- What is the mean blood_pressure rating?
+- How many rate their sleep_quality as 1 or 2?
+- 
 4) Environmental Factors
 
 How many live with noise_level ≥ 4?
